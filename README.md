@@ -1,10 +1,6 @@
 
 # 🚀 Detection-Changing-File-in-VM
 
-This guide explains how to set up a system that detects file alterations in Jenkins, applies those changes to a VM, and copies new files to another VM through a remote server using SSH keys.
-
----
-
 ## 🛠 1. Activate Jenkins Container
 
 To start, you need to activate Jenkins in a container. Run the following command:
