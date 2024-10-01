@@ -173,6 +173,11 @@ while read -r directory events filename; do
     fi
 done
 ```
+
+```bash
+scp "/home/username/appjardir/SpringApp-0.0.1-SNAPSHOT.jar" "username@10.0.2.19:/home/username/appjardir2"
+```
+
 ![image](https://github.com/user-attachments/assets/f7e13efb-c9cd-4b79-8c8d-e16606c239c5)
 ![image](https://github.com/user-attachments/assets/954977ee-969a-4da4-a58d-4d33e8cc1603)
 
